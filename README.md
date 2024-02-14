@@ -6,4 +6,5 @@ Hello there! 👋🏻 Welcome to my profile!
 * Tech Explorer 🛠️: Navigating the tech terrain with AWS, Jupyter, Git, and more - building robust solutions from the ground up.
 
 Email: [rajendran.d@northeastern.edu](url)
+
 Resume: [https://drive.google.com/file/d/1rcvgKwTI1Okk7K7bSG_iA51uqtglZ04y/view?usp=sharing](url)
