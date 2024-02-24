@@ -6,4 +6,4 @@ Hello there! 👋🏻 Welcome to my GitHub Profile!
 
 Email: [rajendran.d@northeastern.edu](url)
 
-Resume: [https://drive.google.com/file/d/1rcvgKwTI1Okk7K7bSG_iA51uqtglZ04y/view?usp=sharing](url)
+Resume: https://drive.google.com/file/d/1rcvgKwTI1Okk7K7bSG_iA51uqtglZ04y/view?usp=sharing
