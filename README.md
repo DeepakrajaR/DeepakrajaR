@@ -10,3 +10,5 @@ Email: [rajendran.d@northeastern.edu](url)
 Resume: https://drive.google.com/file/d/1rcvgKwTI1Okk7K7bSG_iA51uqtglZ04y/view?usp=sharing
 
 CMBBE Conference: https://avestia.com/EECSS2023_Proceedings/files/paper/ICBES/ICBES_141.pdf
+
+International Journal of Aquatic Sciences (IJAS): https://www.journal-aquaticscience.com/article_135623.html
