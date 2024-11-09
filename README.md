@@ -7,7 +7,7 @@ Hello there! 👋🏻 Welcome to my GitHub Profile!
 
 Email: [rajendran.d@northeastern.edu](url)
 
-Resume: https://drive.google.com/file/d/1rcvgKwTI1Okk7K7bSG_iA51uqtglZ04y/view?usp=sharing
+Resume: https://drive.google.com/file/d/1wm2FGd68FXaJ0N_kgiUGdSb_ClPhFWMd/view?usp=sharing
 
 CMBBE Conference: https://avestia.com/EECSS2023_Proceedings/files/paper/ICBES/ICBES_141.pdf
 
