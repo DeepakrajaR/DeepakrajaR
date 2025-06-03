@@ -1,4 +1,4 @@
-# Hi there, I'm Deepa 👋
+# Hi there, I'm Deepak 👋
 
 **Data Scientist & AI Engineer** building intelligent systems that bridge the gap between research and production.
 
