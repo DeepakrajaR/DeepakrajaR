@@ -52,7 +52,7 @@ Platform for generating and editing content using fine-tuned foundation models
 
 ## 📈 GitHub Stats
 
-![Deepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Deepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakrajaR&show_icons=true&theme=dark)
 
 ## 🌱 Currently Exploring
 - **Advanced MLOps**: Implementing automated model governance and compliance frameworks
