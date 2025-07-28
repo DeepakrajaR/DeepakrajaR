@@ -50,10 +50,6 @@ Platform for generating and editing content using fine-tuned foundation models
 - **Tech**: Transformers, React, S3, Docker
 - **Features**: Custom model fine-tuning, multi-format generation, collaborative editing
 
-## 📈 GitHub Stats
-
-![Deepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepakrajaR&show_icons=true&theme=dark)
-
 ## 🌱 Currently Exploring
 - **Advanced MLOps**: Implementing automated model governance and compliance frameworks
 - **Multimodal AI**: Researching novel fusion techniques for text-image-audio analysis  
