@@ -16,12 +16,12 @@ I specialize in **end-to-end AI solutions** - from data preprocessing to product
 ### 🛠️ Technology Stack
 ```python
 # Core Skillset
-Programming & Data Engineering = [Python, SQL, PySpark, Databricks, Spark SQL, Delta Lake, Airflow, dbt, MySQL,
- PostgreSQL, DynamoDB, Snowflake]
-Machine Learning & GenAI = [PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, LangChain, Transformers
- (Hugging Face), CLIP, SAM, RAG, NLP]
-Cloud & MLOps = [AWS (SageMaker, Textract, Rekognition, Comprehend, A2I, Quicksight, SNS, Lambda,
- S3, EC2), MLflow, Docker, Kubernetes, CI/CD]
+Programming & Data Engineering = ["Python', "SQL", "PySpark", "Databricks", "Spark SQL", "Delta Lake", "Airflow", "dbt", "MySQL",
+ "PostgreSQL", "DynamoDB", "Snowflake"]
+Machine Learning & GenAI = ["PyTorch", "TensorFlow", "scikit-learn", "XGBoost", "LightGBM", "LangChain", "Transformers
+ (Hugging Face)", "CLIP", "SAM", "RAG", "NLP"]
+Cloud & MLOps = ["AWS (SageMaker, Textract, Rekognition, Comprehend, A2I, Quicksight, SNS, Lambda,
+ S3, EC2)", "MLflow", "Docker", "Kubernetes", "CI/CD"]
 
 # Backend & APIs  
 backend = ["FastAPI", "Django", "Flask", "PostgreSQL", "MongoDB", "Redis"]
